@@ -17,4 +17,4 @@
 
 ### Without Docker
 - install python package dependencies using `pip install -r requirements.txt`.
-- or just run `python3 countdown.py` if you want to run the program without docker
+- run `python3 countdown.py`
