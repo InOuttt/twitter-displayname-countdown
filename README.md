@@ -1,5 +1,4 @@
 ## COUNTDOWN IN TWITTER DISPLAYNAME
-![alt text](tweet.jpg "countdown in displayname")
 - python 3.8
 - docker 20.10 (optional)
 - docker-compose 1.29 (optional)
