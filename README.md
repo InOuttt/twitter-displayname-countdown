@@ -8,7 +8,9 @@
 ## How to use
 - clone this repo.
 - put your twitter API token credentials in **.env** file.
-- define the specified **end_date** countdown in **end_date** parameter of `CountDown` class in the `countdown.py` file.
+- put your desired end date of the counter on **end_date** in **.env** file.
+- in **.env** file **label** is the text after the countdown 
+- in **.env** file **prefix** is the text before the countdown 
 
 ### Using docker
 - run the program with `docker-compose up -d`
